@@ -1,0 +1,7 @@
+# Ignora todos los archivos .com
+*.com
+# Excepto a.com
+!a.com
+.idea.rar
+privado
+*.com echo !a.com
